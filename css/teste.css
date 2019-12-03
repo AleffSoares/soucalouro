@@ -1,0 +1,70 @@
+/*
+* 
+* @author Jamilton Damasceno
+*/
+
+
+body {
+    background: 
+                linear-gradient(50deg,#509ef7,#b0f3f3);
+    background-attachment: fixed;
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+
+/* Barra de navegação */
+
+
+
+.navbar-light .navbar-nav .nav-link {
+
+    color: white;
+
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+
+    color: #9bf0e1;
+
+}
+
+.fonte {
+    letter-spacing: -0.05em;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.capa {
+    text-align: center;
+}
+
+
+
+.btn-roxo {
+    background: #7c26f8;
+}
+
+.btn-roxo:hover {
+    background: #6207e3;
+    color: white;
+}
+
+.btn-branco {
+    border: 2px solid white;
+}
+
+.btn-branco:hover {
+    background-color: white;
+    color: black;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+/* Estrutura  Contéudos */
+
+.caixa {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
